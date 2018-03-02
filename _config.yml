@@ -10,11 +10,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 remote_theme             : "mmistakes/minimal-mistakes"
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Filipe's Website"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Filipe Teixeira"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://filipeamteixeira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -262,4 +262,4 @@ defaults:
       related: true
 
 #Include pages
-iinclude: _pages
+include: _pages
