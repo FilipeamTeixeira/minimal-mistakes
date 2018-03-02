@@ -69,7 +69,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "thattinyroom"
 facebook:
   username               :
   app_id                 :
@@ -91,10 +91,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Filipe Teixeira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Mathematician, Architect, Neuroscientist, Pianist, professional complainer."
+  location         : "Ghent, Belgium"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
