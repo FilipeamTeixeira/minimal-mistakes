@@ -262,4 +262,4 @@ defaults:
       related: true
 
 #Include pages
-include: "_pages"
+iinclude: _pages
