@@ -260,16 +260,15 @@ defaults:
       comments: # true
       share: true
       related: true
-
-#Reading files
-include:
-  - _pages
-
-# Defaults
-# _docs
+   # _docs
   - scope:
       path: ""
       type: docs
     values:
       sidebar:
         nav: "docs"
+
+#Reading files
+include:
+  - _pages
+
