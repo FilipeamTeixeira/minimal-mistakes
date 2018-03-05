@@ -267,6 +267,13 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      
 
 #Reading files
 include:
