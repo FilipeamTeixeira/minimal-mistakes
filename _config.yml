@@ -264,3 +264,7 @@ defaults:
 #Reading files
 include:
   - _pages
+
+# Sidebar
+sidebar:
+  nav: "docs"
