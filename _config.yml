@@ -265,6 +265,11 @@ defaults:
 include:
   - _pages
 
-# Sidebar
-sidebar:
-  nav: "docs"
+# Defaults
+# _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
