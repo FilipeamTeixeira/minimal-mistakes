@@ -13,5 +13,5 @@ main:
 docs:
   - title: About
     children:
-      - title: "About"
-        url: /about/
+      - title: "Authors"
+        url: /docs/authors/
