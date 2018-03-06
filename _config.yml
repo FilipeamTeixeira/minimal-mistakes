@@ -265,6 +265,7 @@ defaults:
       path: ""
       type: docs
     values:
+      layout: single
       sidebar:
         nav: "docs"
    # _pages
