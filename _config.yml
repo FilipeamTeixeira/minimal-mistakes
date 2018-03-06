@@ -262,7 +262,7 @@ defaults:
       related: true
    # _docs
    - scope:
-      path: "_docs"
+      path: "docs"
       type: docs
     values:
       layout: single
