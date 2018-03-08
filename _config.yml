@@ -278,3 +278,9 @@ defaults:
 include:
   - _pages
 
+sidebar:
+  - title: "Title"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
